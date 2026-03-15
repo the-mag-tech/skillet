@@ -3,6 +3,8 @@
 Status: Proposed
 Date: 2026-02-28
 
+> Discussion: [discussion log](001-creator-content-terminal.discussion.md)
+
 ## Context
 
 自媒体创作者需要一个统一的入口来完成内容生产的完整工作流：

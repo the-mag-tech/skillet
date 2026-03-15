@@ -3,6 +3,8 @@
 Status: Proposed
 Date: 2026-02-28
 
+> Discussion: [discussion log](002-bidirectional-feedback-contract.discussion.md)
+
 ## Context
 
 SkillRank（Hub 排名引擎）和 Prism（知识图谱引擎）最初被设计为独立组件，
