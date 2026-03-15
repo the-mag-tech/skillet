@@ -21,6 +21,16 @@ Data source type:
 2. Public docs/help pages
 3. Public pricing and catalog pages
 
+## Domain Evidence Log
+
+| Domain | Category | Observation | Evidence URLs | Sampled On | Confidence |
+|---|---|---|---|---|---|
+| `lobehub.com` | Skill hub / marketplace | Large inventory-oriented skill marketplace; strong supply-side distribution, weak cross-hub normalized ranking narrative. | `https://lobehub.com/`, `https://lobehub.com/skills`, `https://lobehub.com/docs/development/basic/architecture` | 2026-03-15 | Medium |
+| `creatorskills.co` | Creator workflow store | Buyer-first workflow catalog with one-time purchase model; validates willingness to pay for packaged workflow assets. | `https://creatorskills.co/`, `https://creatorskills.co/skills`, `https://creatorskills.co/llms.txt`, `https://creatorskills.co/about` | 2026-03-15 | High |
+| `lovart.ai` / `lovart.info` | Design/creation tool | Strong generation/editing workflow tooling and API positioning; not a neutral multi-hub discovery backend. | `https://www.lovart.ai/home`, `https://lovart.info/lovart-api`, `https://www.lovart.ai/changelog` | 2026-03-15 | Medium |
+| `tila.ai` | Creator automation workspace | Visual multi-agent workflow canvas model; more execution/workbench oriented than federated discovery/search. | `https://tila.ai/en/`, `https://tila.ai/en/pricing`, `https://tila.ai/help/how-it-works.html` | 2026-03-15 | Medium |
+| `agentplaybooks.ai` | Skill infrastructure layer | Platform-agnostic skills/rules/memory store framing; closer to capability packaging than user-facing cross-hub retrieval. | `https://agentplaybooks.ai/`, `https://agentplaybooks.ai/docs`, `https://agentplaybooks.ai/docs/management-api` | 2026-03-15 | Low-Medium |
+
 ## Key Findings
 
 ### Finding 1: Market has supply-side hubs, but weak cross-hub discovery
