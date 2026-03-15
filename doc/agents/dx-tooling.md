@@ -3,7 +3,7 @@
 ## Auto-Generated Doc Indexes
 
 ```bash
-npx tsx scripts/generate-doc-index.ts all
+pnpm gen:index
 ```
 
 **Rule**: Never hand-edit between `<!-- INDEX:START/END -->` markers.

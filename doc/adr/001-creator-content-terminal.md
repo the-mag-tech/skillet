@@ -1,9 +1,11 @@
 # ADR-001: Skillet — Creator Content Terminal Architecture
 
-Status: Proposed
+Status: Superseded
 Date: 2026-02-28
 
 > Discussion: [discussion log](001-creator-content-terminal.discussion.md)
+
+Superseded by `ADR-003: Skillet as Skill Hub/Bundle Discovery and Search Backend`.
 
 ## Context
 

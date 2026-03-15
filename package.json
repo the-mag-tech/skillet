@@ -1,7 +1,7 @@
 {
   "name": "skillet",
   "version": "0.1.0",
-  "description": "Skillet — creator content terminal: discover skills, organize content, publish to platforms",
+  "description": "Skillet — skill hub and skill bundle discovery/search engine",
   "type": "module",
   "private": true,
   "scripts": {
